@@ -11,6 +11,8 @@ In your project root in terminal put this code:
 
 - ./vendor/bin/sail up                (to start containers)
 
+- create database in container
+  
 - create .env file with right credentials and connect to the database
 
 - ./vendor/bin/sail artisan migrate   (to start inserting db tables)  
